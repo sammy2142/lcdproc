@@ -130,8 +130,8 @@ dnl				else
 			;;
 		dm140)
 			DRIVERS="$DRIVERS dm140${SO}"
-    		actdrivers=["$actdrivers dm140"]
-        	;;
+			actdrivers=["$actdrivers dm140"]
+			;;
 		ea65)
 			DRIVERS="$DRIVERS ea65${SO}"
 			actdrivers=["$actdrivers ea65"]
